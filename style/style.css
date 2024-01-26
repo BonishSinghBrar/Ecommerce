@@ -1,0 +1,42 @@
+body,ul,li,div,p,span,h1,h2,h3,h4,h5,h6,i,a{
+margin: 0;padding:0;
+} 
+.main{
+    margin: 0 auto;
+    width: 1000px;
+}
+.red{
+    background-color: red;
+}
+.green{
+    color: rgb(39, 209, 39) !important;
+}
+
+.mydiv{
+    width:100px;
+    height:100px;
+    background-color: yellow;
+}
+.abcnav{ background-color: rgb(178, 222, 178) !important;}
+
+.hero-text{
+    margin-top: 50px;
+    padding: 20px;
+}
+.product-item img{
+    height: 250px;
+    border: 2px solid grey;
+}
+.text-margin{
+    margin-top: 100px;
+}
+.img-margin{
+    margin-top: 40px;
+}
+.footer{
+    background-color: rgb(178, 222, 178);
+    padding: 20px;
+}
+.cart-margin{
+    margin-top: 50px;
+}
