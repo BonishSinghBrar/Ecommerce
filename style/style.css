@@ -20,7 +20,7 @@ margin: 0;padding:0;
 .abcnav{ background-color: rgb(178, 222, 178) !important;}
 
 .hero-text{
-    margin-top: 50px;
+    margin-top: 70px;
     padding: 20px;
 }
 .product-item img{
@@ -28,15 +28,18 @@ margin: 0;padding:0;
     border: 2px solid grey;
 }
 .text-margin{
-    margin-top: 100px;
+    margin-top: 120px;
 }
 .img-margin{
     margin-top: 40px;
 }
 .footer{
     background-color: rgb(178, 222, 178);
-    padding: 20px;
+    padding: 30px;
 }
 .cart-margin{
+    margin-top: 50px;
+}
+.hero-image{
     margin-top: 50px;
 }

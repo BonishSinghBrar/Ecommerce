@@ -38,7 +38,7 @@ if (isset($_POST['destroy'])) {
 
 
 <div class="col-md-12">
-    <nav class="mynav navbar navbar-expand-lg navbar-light bg-light">
+    <nav class="abcnav navbar navbar-expand-lg navbar-light bg-light">
         <div class="container">
             <a class="navbar-brand" href="#">FRESHCO</a>
             <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
@@ -80,27 +80,24 @@ if (isset($_POST['destroy'])) {
 <div class="hero-area col-md-12">
     <div class="container">
         <div class="row">
-            <div class="col-md-6 text-center hero-text">
+            <div class="col-md-6 text-center text-margin">
                 <h1>Welcome</h1>
                 <h4>Get everything you need under one roof</h4>
+                <h5 class="Green">Have A Great Day...........</h5>
                 <button class="btn btn-success">Shop Now</button>
             </div>
-            <div class="col-md-6">
+            <div class="hero-image col-md-6">
                 <img src="1.jpg" class="img-fluid" alt="">
             </div>
         </div>
     </div>
 </div>
 
-<div class="product-area text-center">
-    <br>
-    <br>
+<div class="hero-text product-area text-center">
     <h1>Grocery Items</h1>
-    <br>
-    <br>
-    <div class="container">
+    <div class="hero-text container">
         <div class="row">
-            <div class="col-md-4">
+            <div class="col-md-4 hero-text">
                 <img src="2.jpg" class="img-fluid" alt="">
                 <h4>Skimmed milk</h4>
                 <h4>CAD $7.30</h4>
@@ -111,7 +108,7 @@ if (isset($_POST['destroy'])) {
                     <button class="btn btn-success" type="submit" name="submit">Add to cart</button>
                 </form>
             </div>
-            <div class="col-md-4">
+            <div class="col-md-4 hero-text">
     <img src="3.jpg" class="img-fluid" alt="">
     <h4>Orange</h4>
     <h4>CAD $12.50</h4>
@@ -123,7 +120,7 @@ if (isset($_POST['destroy'])) {
     </form>
 </div>
 
-<div class="col-md-4">
+<div class="col-md-4 hero-text">
     <img src="4.jpg" class="img-fluid" alt="">
     <h4>Apple</h4>
     <h4>CAD $5.30</h4>
@@ -135,7 +132,7 @@ if (isset($_POST['destroy'])) {
     </form>
 </div>
 
-<div class="col-md-4">
+<div class="col-md-4 hero-text">
     <img src="5.jpg" class="img-fluid" alt="">
     <h4>Banana</h4>
     <h4>CAD $5.30</h4>
@@ -147,7 +144,7 @@ if (isset($_POST['destroy'])) {
     </form>
 </div>
 
-<div class="col-md-4">
+<div class="col-md-4 hero-text">
     <img src="6.jpg" class="img-fluid" alt="">
     <h4>Romaine Lettuce</h4>
     <h4>CAD $16.30</h4>
@@ -159,7 +156,7 @@ if (isset($_POST['destroy'])) {
     </form>
 </div>
 
-<div class="col-md-4">
+<div class="col-md-4 hero-text">
     <img src="7.jpg" class="img-fluid" alt="">
     <h4>Green pepper</h4>
     <h4>CAD $3.30</h4>
@@ -175,7 +172,7 @@ if (isset($_POST['destroy'])) {
     </div>
 </div>
 
-<footer class="bg-dark text-light py-4">
+<footer class="abcnav bg-dark text-light py-4">
     <div class="container">
         <div class="row">
             <div class="text-center">

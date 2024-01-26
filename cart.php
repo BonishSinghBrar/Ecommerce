@@ -119,7 +119,7 @@ if (isset($_SESSION['product_name'])) {
             </div>
           </div>
 
-          <footer class="bg-dark text-light py-4">
+          <footer class="bg-dark footer text-light py-4">
             <div class="container">
                 <div class="row">
                     <div class="text-center">
